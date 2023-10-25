@@ -1,0 +1,63 @@
+{
+    "hearts": {
+        "A_hearts": 14,
+        "K_hearts": 13,
+        "Q_hearts": 12,
+        "J_hearts": 11,
+        "10_hearts": 10,
+        "9_hearts": 9,
+        "8_hearts": 8,
+        "7_hearts": 7,
+        "6_hearts": 6,
+        "5_hearts": 5,
+        "4_hearts": 4,
+        "3_hearts": 3,
+        "2_hearts": 2
+    },
+    "diamonds": {
+        "A_diamonds": 14,
+        "K_diamonds": 13,
+        "Q_diamonds": 12,
+        "J_diamonds": 11,
+        "10_diamonds": 10,
+        "9_diamonds": 9,
+        "8_diamonds": 8,
+        "7_diamonds": 7,
+        "6_diamonds": 6,
+        "5_diamonds": 5,
+        "4_diamonds": 4,
+        "3_diamonds": 3,
+        "2_diamonds": 2
+    },
+    "spades": {
+        "A_spades": 14,
+        "K_spades": 13,
+        "Q_spades": 12,
+        "J_spades": 11,
+        "10_spades": 10,
+        "9_spades": 9,
+        "8_spades": 8,
+        "7_spades": 7,
+        "6_spades": 6,
+        "5_spades": 5,
+        "4_spades": 4,
+        "3_spades": 3,
+        "2_spades": 2
+    },
+    "clubs": {
+        "A_clubs": 14,
+        "K_clubs": 13,
+        "Q_clubs": 12,
+        "J_clubs": 11,
+        "10_clubs": 10,
+        "9_clubs": 9,
+        "8_clubs": 8,
+        "7_clubs": 7,
+        "6_clubs": 6,
+        "5_clubs": 5,
+        "4_clubs": 4,
+        "3_clubs": 3,
+        "2_clubs": 2
+    }
+}
+
